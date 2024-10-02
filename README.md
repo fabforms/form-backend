@@ -1,6 +1,4 @@
-Sure! Here's a friendly, easy-to-read step-by-step tutorial for **Fabform.io**, a tool that makes form building and integration super simple:
 
----
 
 # Step-by-Step Guide to Using Fabform.io
 
