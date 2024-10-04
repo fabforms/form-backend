@@ -1,6 +1,6 @@
 
 
-# Step-by-Step Guide to Using thr Fabform.io [form backend service](https://fabform.io)
+# Step-by-Step Guide to Using the Fabform.io [form backend service](https://fabform.io)
 
 **Fabform.io** is a no-code platform that allows you to quickly create, manage, and integrate forms into your website without the hassle of writing backend code. Whether you want to collect contact information, feedback, or survey data, Fabform has you covered.
 
