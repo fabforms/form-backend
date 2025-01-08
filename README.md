@@ -104,3 +104,5 @@ You’ve successfully created and embedded a form using Fabform.io! It's easy, r
 ---
 
 This tutorial should help anyone get started with Fabform.io in a friendly, beginner-friendly manner. Let me know if you'd like any more details or examples!
+
+[how to create a simple contact form](https://www.fabform.io/a/how-to-create-a-simple-contact-form)
